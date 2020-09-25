@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-email-freemarker
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Qbx-lap1
+Implementation-Vendor-Id: com.javatechie
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-email-freemarker
+Created-By: Maven Integration for Eclipse
+
